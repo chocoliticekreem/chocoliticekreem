@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hero.svg" alt="ASCII art" width="100%">
+<img src="hero.svg?v=bbfb1a5" alt="ASCII art" width="100%">
 
 **ML researcher at NeuroX · Medical Biosciences at Imperial · ex-Founding Engineer at 8x**
 
@@ -14,7 +14,7 @@
 
 - Building digital twins of neurofeedback learners at **NeuroX**, from EEG recorded on 62 people
 - Co-directing **Stanford ASES London**
-- Previously owned 4 product verticals at **8x** (EF's fastest-growing company, $1.7M ARR in 5 months)
+- Previously built at **8x** (EF's fastest-growing company, $1.7M ARR in 5 months)
 
 ### Stack
 
